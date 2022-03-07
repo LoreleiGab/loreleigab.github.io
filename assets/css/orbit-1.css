@@ -243,7 +243,7 @@ p {
   background-clip: padding-box;
 }
 .skillset .theme-progress-bar {
-  background: #68bacd;
+  background: rgba(137, 233, 255, 0.83);
 }
 
 .footer {
