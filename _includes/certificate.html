@@ -1,0 +1,13 @@
+<section class="section projects-section">
+    <h2 class="section-title"><span class="icon-holder"><i class="fas fa-certificate"></i></span>Certificações</h2>
+    {% for certificate in site.data.certificate %}
+        <div class="item">
+            <div class="meta">
+                <div class="upper-row">
+                    <div class="details">{{ certificate.title }}</div>
+                    <div class="company">{{ certificate.school }} - {{ certificate.workload }}  ({{ certificate.time }})</div>
+                </div><!--//upper-row-->
+            </div><!--//meta-->
+        </div><!--//item-->
+    {% endfor %}
+</section>

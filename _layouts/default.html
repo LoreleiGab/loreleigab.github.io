@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ page.objective }}</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <!--    <link rel="stylesheet" href='{{ "/assets/css/styles.css" | relative_url }}'>-->
+    <!-- Google Font -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic'
+          rel='stylesheet' type='text/css'>
+    <!-- FontAwesome JS-->
+    <script defer src='{{ "/assets/fontawesome/js/all.min.js" | relative_url }}'></script>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Theme CSS -->
+    <link id="theme-style" rel="stylesheet" href="assets/css/orbit-1.css">
+</head>
+<body>
+    <div class="wrapper mt-lg-5">
+        <div class="sidebar-wrapper">
+            <div class="profile-container">
+                <img width="100" height="100" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/14096202?v=4"  alt="Lorelei Gabriele Castro Lourenço da Silva">
+                <h1 class="name">Lorelei</h1>
+                <h3 class="tagline">Full Stack Developer<br>São Paulo - SP</h3>
+            </div><!--//profile-container-->
+            {% include contact.html %}
+            {% include education.html %}
+            {% include language.html %}
+            {% include skill.html %}
+            <!--//education-container-->
+        </div>
+        <!--//sidebar-wrapper-->
+        <div class="main-wrapper">
+            {% include profile.html %}
+            {% include experience.html %}
+            {% include certificate.html %}
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="text-center">
+
+    </footer><!--//footer-->
+</body>
+</html>

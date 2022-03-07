@@ -1,0 +1,147 @@
+- title: 'Lumen: API Rest com o Micro-framework do Laravel'
+  school: Alura Cursos Online
+  workload: 10 horas
+  time: 03/2022
+
+- title: 'Docker: Criando e gerenciando containers'
+  school: Alura Cursos Online
+  workload: 10 horas
+  time: 03/2022
+
+- title: 'JavaScript: Programando na linguagem da web'
+  school: Alura Cursos Online
+  workload: 20 horas
+  time: 03/2022
+
+- title: 'Laravel parte 3: Eventos, filas, upload e e-mail'
+  school: Alura Cursos Online
+  workload: 10 horas
+  time: 03/2022
+
+- title: 'Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes'
+  school: Alura Cursos Online
+  workload: 10 horas
+  time: 02/2022
+
+- title: 'Laravel parte 1: Produtividade no desenvolvimento web'
+  school: Alura Cursos Online
+  workload: 06 horas
+  time: 02/2022
+
+- title: 'MVC com PHP: Entenda o padrão Model-View-Controller'
+  school: Alura Cursos Online
+  workload: 14 horas
+  time: 02/2022
+
+- title: 'Doctrine ORM: Acesse o banco com Mapeamento Objeto-Relacional'
+  school: Alura Cursos Online
+  workload: 10 horas
+  time: 02/2022
+
+- title: 'PHP e PDO: Trabalhando com bancos de dados'
+  school: Alura Cursos Online
+  workload: 10 horas
+  time: 01/2022
+
+- title: 'PHP Composer: Dependências, Autoload e Publicação'
+  school: Alura Cursos Online
+  workload: 06 horas
+  time: 01/2022
+
+- title: 'PHP Exceptions: Tratamento de erros'
+  school: Alura Cursos Online
+  workload: 08 horas
+  time: 01/2022
+
+- title: 'PHP: Manipulando coleções com Arrays'
+  school: Alura Cursos Online
+  workload: 08 horas
+  time: 01/2022
+
+- title: 'Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces'
+  school: Alura Cursos Online
+  workload: 10 horas
+  time: 01/2022
+
+- title: 'Projetos ágeis com SCRUM'
+  school: Digital Innovation One Inc.
+  workload: 02 horas
+  time: 10/2021
+
+- title: 'Introdução ao Git e ao GitHub'
+  school: Digital Innovation One Inc.
+  workload: 05 horas
+  time: 02/2021
+
+- title: 'Programação para internet com JavaScript'
+  school: Digital Innovation One Inc.
+  workload: 02 horas
+  time: 02/2021
+
+- title: 'Introdução a criação de websites com HTML5 e CSS3'
+  school: Digital Innovation One Inc.
+  workload: 06 horas
+  time: 01/2021
+
+- title: 'Avançando com PHP: arrays, strings, função e web'
+  school: Alura Cursos Online
+  workload: 08 horas
+  time: 01/2021
+
+- title: 'Introdução ao PHP: primeiros passos com a linguagem'
+  school: Alura Cursos Online
+  workload: 06 horas
+  time: 01/2021
+
+- title: 'CRUD com PHP OO + MVC + Bootstrap 4 + JQuery'
+  school: Udemy Brasil
+  workload: 01 hora
+  time: 08/2019
+
+- title: 'Introdução ao jQuery'
+  school: Udemy Brasil
+  workload: 01 hora
+  time: 07/2019
+
+- title: 'Introdução à linguagem JavaScript'
+  school: Udemy Brasil1
+  workload: 1,5 horas
+  time: 07/2019
+
+- title: 'PHP 7 MVC com Banco de Dados Mysqli'
+  school: Learncafe - Cursos online
+  time: 07/2019
+
+- title: 'PHP 7 Orientado a Objetos'
+  school: Learncafe - Cursos online
+  time: 07/2019
+
+- title: 'HTTP: Entendendo a web por baixo dos panos'
+  school: Alura Cursos Online
+  workload: 14 horas
+  time: 03/2019
+
+- title: 'HTML5 e CSS3 II: Turbinando as Suas Páginas'
+  school: Alura Cursos Online
+  workload: 40 horas
+  time: 03/2019
+
+- title: 'HTML5 e CSS3 I: Suas primeiras páginas da Web'
+  school: Alura Cursos Online
+  workload: 32 horas
+  time: 03/2019
+
+- title: 'MySQL - Módulo I'
+  school: Impacta Certificação e Treinamento
+  workload: 40 horas
+  time: 11/2015
+
+- title: 'Introdução à Programação Orientada a Objeto'
+  school: Impacta Certificação e Treinamento
+  workload: 16 horas
+  time: 10/2015
+
+- title: 'Introdução à Lógica de Programação'
+  school: Impacta Certificação e Treinamento
+  workload: 40 horas
+  time: 06/2014
