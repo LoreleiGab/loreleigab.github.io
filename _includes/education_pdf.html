@@ -1,0 +1,13 @@
+<section class="section education-section">
+    <h2 class="section-title"><span class="icon-holder"><i class="fas fa-user-graduate"></i></span>Formação</h2>
+    {% for education in site.data.education %}
+    <div class="item">
+        <div class="meta">
+            <div class="upper-row">
+                <div class="details">{{education.course}}</div>
+                <div class="company">{{education.local}}  {{education.time}}</div>
+            </div><!--//upper-row-->
+        </div><!--//meta-->
+    </div><!--//item-->
+    {% endfor %}
+</section>

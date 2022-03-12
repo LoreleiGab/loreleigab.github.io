@@ -1,20 +1,23 @@
 - title: PHP
-  value: 98
+  value: 90
 
 - title: Laravel
-  value: 20
+  value: 15
 
 - title: Git
-  value: 75
+  value: 70
 
 - title: MySQL
-  value: 94
+  value: 90
 
 - title: SQL Server
-  value: 60
+  value: 40
 
 - title: Javascript
   value: 20
+
+- title: Docker
+  value: 10
 
 - title: HTML5
   value: 95
@@ -26,7 +29,7 @@
   value: 90
 
 - title: WordPress
-  value: 90
+  value: 80
 
 - title: Suporte ao usuário
   value: 98
